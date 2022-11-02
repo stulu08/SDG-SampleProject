@@ -1,0 +1,12 @@
+# Directoies
+.vs/
+bin/
+bin-int/
+__pycache__/
+
+#Files
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user 
+*.csproj

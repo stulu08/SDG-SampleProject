@@ -1,0 +1,3 @@
+[submodule "SDG"]
+	path = SDG
+	url = https://github.com/stulu08/SDG
